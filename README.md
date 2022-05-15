@@ -9,7 +9,7 @@
 
 This project has been completed as part of the University of British Columbia's CPEN 391 course in the winter term of 2022. Out of 26 teams, we ranked 1st in the video demo and team report portions, while ranking 2nd in live demo portion.
 
-Our team consists of [Francis Godinho](https://github.com/FrancisGodinho), [Jerry Xu](https://github.com/jerryxu9), [Ken Johnson](https://github.com/kojon74), and [myself](https://github.com/masonw19).
+Our team consists of [Francis Godinho](https://github.com/FrancisGodinho), [Jerry Xu](https://github.com/jerryxu9), [Ken Johnson](https://github.com/kojon74), and [myself (Mason Wong)](https://github.com/masonw19).
 
 ## Video Demo
 https://user-images.githubusercontent.com/56134891/168485934-ee70ad20-5a98-4baa-a969-d9fcd3feb682.MP4
